@@ -49,10 +49,10 @@ A business intelligence dashboard project built in Microsoft PowerBI to analyze 
 📊 Key Dashboards
 
     1.	KPIs (Total Quantity Sold, Total Revenue, Number of Stores, Total Customers) 
-    4.	Revenue by Day 
-    5.	Revenue by Product 
-    6.  Revenue by Gender 
-    6.  Revenue by Payment Type
+    2.	Revenue by Day 
+    3.	Revenue by Product 
+    4.  Revenue by Gender 
+    5.  Revenue by Payment Type
     6.  List of the customers with their Revenue and Quantity purchased
 
 📌 Highlights
