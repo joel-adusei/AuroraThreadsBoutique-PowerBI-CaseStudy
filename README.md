@@ -32,7 +32,7 @@ A business intelligence dashboard project built in Microsoft PowerBI to analyze 
 
 🏷️ Data Dictionary
 
-    Date: Date of the sales transaction Store: Store location
+    **Date:** Date of the sales transaction Store: Store location
     Product: Product name or description
     Category: Product category (e.g., clothing, shoes, accessories)
     Gender: Gender of the target market for the product (e.g., male, female, unisex)
